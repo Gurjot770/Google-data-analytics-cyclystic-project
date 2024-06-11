@@ -2,16 +2,15 @@
 **Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)**
 
 **Introduction**
-In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. In order to answer the key business questions, I will follow the steps of the data analysis process: [Ask](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/README.md#ask), [Prepare](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/README.md#prepare), [Process](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/README.md#process), [Analyze](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/README.md#analyze-and-share), [Share](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/README.md#analyze-and-share), and [Act](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#act).
-
+In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. In order to answer the key business questions, I will follow the steps of the data analysis process: ASK , PREPARE, PROCESS, ANALYZE, SHARE , ACT
 Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 SQL Queries:
-[01. Data Combining]
-[02. Data Exploration]
-[03. Data Cleaning]
-[04. Data Analysis]
+https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20exploration.sql
+Data Combining.sql
+Data cleaning.sql
+Data process for analysis.sql
 
 Data Visualizations: ADVANCE EXCEL
 
@@ -60,7 +59,7 @@ _Reason_:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like SQL (MS SQL) that supports huge volumes of data.
 
 **Combining the Data**
-SQL Query: [Data Combining](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01.%20Data%20Combining.sql)
+SQL Query: 
 12 csv files are uploaded as tables in the dataset 'CITI BIKE TRIP DATA'. Another table named "tripdata_combined" is created, containing 43,14,389 rows of data for the entire 12 months.
 
 **Data Exploration**
