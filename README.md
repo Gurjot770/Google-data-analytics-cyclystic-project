@@ -7,10 +7,10 @@ Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 SQL Queries:
-https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20exploration.sql
-Data Combining.sql
-Data cleaning.sql
-Data process for analysis.sql
+[DATA EXPLORATION].(https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20exploration.sql)
+Data Combining.sql [https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20Combining.sql]
+Data cleaning.sql  [https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20cleaning.sql]
+Data process for analysis.sql [https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20process%20for%20analysis.sql]
 
 Data Visualizations: ADVANCE EXCEL
 
@@ -59,11 +59,11 @@ _Reason_:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like SQL (MS SQL) that supports huge volumes of data.
 
 **Combining the Data**
-SQL Query: 
+SQL Query: Data Combining.sql [https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20Combining.sql]
 12 csv files are uploaded as tables in the dataset 'CITI BIKE TRIP DATA'. Another table named "tripdata_combined" is created, containing 43,14,389 rows of data for the entire 12 months.
 
 **Data Exploration**
-SQL Query: [Data Exploration](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02.%20Data%20Exploration.sql)
+SQL Query: [DATA EXPLORATION].https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20exploration.sql
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
 **Observations**:
