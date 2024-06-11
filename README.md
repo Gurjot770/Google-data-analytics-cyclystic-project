@@ -12,7 +12,7 @@ Data Combining.sql [https://github.com/Gurjot770/Google-data-analytics-cyclystic
 Data cleaning.sql  [https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20cleaning.sql]
 Data process for analysis.sql [https://github.com/Gurjot770/Google-data-analytics-cyclystic-project/blob/main/Data%20process%20for%20analysis.sql]
 
-Data Visualizations: ADVANCE EXCEL
+*Data Visualizations*: ADVANCE EXCEL
 
 **Background**
 **_Cyclistic_**
